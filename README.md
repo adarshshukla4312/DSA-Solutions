@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
