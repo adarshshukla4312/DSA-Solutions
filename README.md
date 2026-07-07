@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0704-binary-search](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Design
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
