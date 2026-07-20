@@ -57,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0066-plus-one) |
+| [1486-xor-operation-in-an-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1920-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
