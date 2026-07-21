@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
