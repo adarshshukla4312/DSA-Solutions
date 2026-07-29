@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0125-valid-palindrome) |
 ## String
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
