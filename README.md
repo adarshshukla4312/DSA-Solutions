@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
 ## Queue
 |  |
 | ------- |
@@ -90,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
