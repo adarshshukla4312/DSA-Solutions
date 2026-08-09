@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0078-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adarshshukla4312/DSA-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
