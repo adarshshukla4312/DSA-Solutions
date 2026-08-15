@@ -1,51 +1,24 @@
 class NumMatrix {
-    int[][] prefix;
-    int[][] column;
+    int[][] presum;
 
     public NumMatrix(int[][] matrix) {
+        presum = new int[matrix.length + 1][matrix[0].length + 1];
 
-        prefix = new int[matrix.length][matrix[0].length];
+        for (int row = 1; row <= matrix.length; row++) {
+            for (int col = 1; col <= matrix[0].length; col++) {
 
-        // Row prefix sums
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
-
-                if (j == 0) {
-                    prefix[i][j] = matrix[i][j];
-                } else {
-                    prefix[i][j] = prefix[i][j - 1] + matrix[i][j];
-                }
-            }
-        }
-
-        column = new int[matrix.length][matrix[0].length];
-
-        // Column prefix sums
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
-
-                if (i == 0) {
-                    column[i][j] = prefix[i][j];
-                } else {
-                    column[i][j] = column[i - 1][j] + prefix[i][j];
-                }
+                presum[row][col] = presum[row][col - 1]
+                        + presum[row - 1][col]
+                        - presum[row - 1][col - 1]
+                        + matrix[row - 1][col - 1];
             }
         }
     }
 
     public int sumRegion(int row1, int col1, int row2, int col2) {
-
-        int total = column[row2][col2];
-
-        if (row1 > 0)
-            total -= column[row1 - 1][col2];
-
-        if (col1 > 0)
-            total -= column[row2][col1 - 1];
-
-        if (row1 > 0 && col1 > 0)
-            total += column[row1 - 1][col1 - 1];
-
-        return total;
+        return presum[row2 + 1][col2 + 1]
+                - presum[row1][col2 + 1]
+                - presum[row2 + 1][col1]
+                + presum[row1][col1];
     }
 }
