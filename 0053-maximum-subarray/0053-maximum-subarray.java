@@ -12,7 +12,7 @@ class Solution {
                 currentsum = 0;
             }
 
-        }
+        }System.gc();
         return maxsum;
     }
 }
