@@ -17,7 +17,7 @@ class Solution {
         int water = 0;
         for(int i = 0; i<n; i++){
             water += Math.min(leftmax[i], rightmax[i]) - height[i];
-        }
+        }System.gc();
         return water;
     }
 }
